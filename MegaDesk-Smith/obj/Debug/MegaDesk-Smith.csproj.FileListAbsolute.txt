@@ -1,0 +1,12 @@
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\bin\Debug\MegaDesk-Smith.exe.config
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\bin\Debug\MegaDesk-Smith.exe
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\bin\Debug\MegaDesk-Smith.pdb
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk-Smith.csproj.AssemblyReference.cache
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk_Smith.Properties.Resources.resources
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk-Smith.csproj.GenerateResource.cache
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk-Smith.csproj.CoreCompileInputs.cache
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk-Smith.exe
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk-Smith.pdb
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk_Smith.MainMenu.resources
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk_Smith.AddQuote.resources
+C:\Users\goatc\source\repos\MegaDesk-Smith\MegaDesk-Smith\obj\Debug\MegaDesk_Smith.DisplayQuote.resources
